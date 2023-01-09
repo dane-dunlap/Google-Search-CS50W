@@ -1,3 +1,27 @@
-p {
-    color:green;
+
+
+.flex-container{
+    display:flex;
+    justify-content:center;
+    
+}
+
+#img-container{
+    margin-top:200px;
+}
+
+
+#google-logo{
+    height:175px;
+}
+
+input{
+    border-radius:10px;
+    border-style:solid;
+    width:600px;
+    height:40px;
+}
+
+.btn{
+    margin-top:20px;
 }
